@@ -1,1 +1,1 @@
-ln -s /bin/ls__ls__ create a symbolic link in the current working directory
+cp -u* .html copies copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory 
