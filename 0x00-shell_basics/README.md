@@ -1,1 +1,1 @@
-rm *~ deletes all files in the current working directory that end with the character ~
+mkdir -p creates parents directories even if they dont exist
