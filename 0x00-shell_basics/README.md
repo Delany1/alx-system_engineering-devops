@@ -1,1 +1,1 @@
-ls -la display current directory contents, including hidden files 
+ls -na display current directory contents in long format, with user and group IDs displayed numerically and hidden files 
