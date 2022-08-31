@@ -1,1 +1,1 @@
-rmdir removes a directory in another directory
+cd - changes the working directory to the previous
