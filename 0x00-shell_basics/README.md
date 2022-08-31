@@ -1,1 +1,1 @@
-file /tmp/iamafile prints the type of a file named iamafile
+ln -s /bin/ls__ls__ create a symbolic link in the current working directory
