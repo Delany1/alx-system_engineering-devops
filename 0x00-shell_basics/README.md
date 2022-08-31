@@ -1,1 +1,1 @@
-rm removes the file betty in the /tmp/my_first_directory
+rmdir removes a directory in another directory
