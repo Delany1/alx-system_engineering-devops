@@ -1,1 +1,1 @@
-mv betty to  /tmp/my_first_directory 
+mv betty /tmp/my_first_directory moves the file betty to my first directory inside the tmp directory
