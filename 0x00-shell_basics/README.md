@@ -1,1 +1,1 @@
-ls -na display current directory contents in long format, with user and group IDs displayed numerically and hidden files 
+mkdir /tmp/my_first_directory creates a directory name my_first_directory in the /tmp 
